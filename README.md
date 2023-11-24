@@ -16,11 +16,6 @@
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/VitorHmaia">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHmaia&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/vitorhugo-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
