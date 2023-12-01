@@ -1,17 +1,17 @@
 <div>
   
   <h1 align="center">
-    Olá, tudo bem? Eu sou o 
+    Hello, I'm 
     <a href="https://www.linkedin.com/in/vitorhugo-maia/">Vítor Hugo Maia</a>
   </h1>
   
   <p align="center">
-    Sou aluno do curso superior em Análise e Desenvolvimento de sistemas e também estagiário pela 2RPNet.
+     Undergraduate student in Systems Analysis and Development and trainee at 2RPNet.
     </a>  
   </p>
   
   <p align="center">
-    Aqui irei postar meus projetos desenvolvidos, desde já agradeço sua atenção! 😉️
+    Welcome to my profile 😉️
   </p>
   
 </div>
