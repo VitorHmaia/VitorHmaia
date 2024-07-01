@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-     Undergraduate student in Systems Analysis and Development and trainee at 2RPNet.
+     I'm a DevOps intern at 2RPNet.
     </a>  
   </p>
   
