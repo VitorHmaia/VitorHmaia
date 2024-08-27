@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-     I'm a DevOps intern at 2RPNet.
+     I'm a DevOps
     </a>  
   </p>
   
